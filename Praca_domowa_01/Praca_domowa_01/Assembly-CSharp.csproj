@@ -65,6 +65,7 @@
   <ItemGroup>
     <Compile Include="Assets\Attach.cs" />
     <Compile Include="Assets\Disappear.cs" />
+    <Compile Include="Assets\falling.cs" />
     <Compile Include="Assets\MovingPlatform.cs" />
     <Compile Include="Assets\Player.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
